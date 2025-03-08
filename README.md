@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Dr.Delin</h1>
 <h3 align="center">A Medical doctor with interest in programming</h3>
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=DrDelin&color=blueviolet&style=plastic)
+  <img src="https://komarev.com/ghpvc/?username=DrDelin&color=blue&style=flat" alt="Profile Views">
 </p>
 <h1 align="left">Welcome to my GitHub profile!</h1>
 
