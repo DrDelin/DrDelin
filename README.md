@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Dr.Delin</h1>
-<h3 align="left">A Medical doctor with interest in programming</h3>
+<h3 align="center">A Medical doctor with interest in programming</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DrDelin&color=blueviolet&style=plastic)
 
