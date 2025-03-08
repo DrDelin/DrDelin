@@ -22,7 +22,7 @@
 - [YouTube Downloader for Android](https://github.com/DrDelin/Youtube-Downloader-Android) - An Open source based Python script for downloading Videos from most of the video streaming sites (Except the sites with DRM) on Android.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDelin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDelin&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDelin&layout=compact&theme=radical)
