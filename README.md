@@ -8,6 +8,9 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDelin&show_icons=true&theme=radical)
 
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDelin&layout=compact&theme=radical)
+
 ## 🚀 About Me
 - 👨🏻‍⚕️ I'm a medical doctor from India🇮🇳.
 - 🩺 Completed MBBS (2017 - 2023).
