@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Dr.Delin</h1>
 <h3 align="center">A Medical doctor with interest in programming</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DrDelin&color=blueviolet&style=plastic)
-
+<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=DrDelin&color=blueviolet&style=plastic)</p>
 <h1 align="left">Welcome to my GitHub profile!</h1>
 
 ## 💻 Languages I Know
