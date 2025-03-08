@@ -5,6 +5,10 @@
 
 Welcome to my GitHub profile!
 
+## 💻 Languages I Know
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=black)  
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDelin&show_icons=true&theme=radical)
 
