@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 👨🏻‍⚕️ I'm a medical doctor from India🇮🇳.
 - 🩺 Completed MBBS (2017 - 2023).
-- 🧑🏻‍💻 I have also passion in programming.
+- 🧑🏻‍💻 I also have passion in programming.
 - 📖🛜 I learnt programming languages mostly by online.
 - ❌️ Hence, I'm not an Expert programmer.
 - 🙏🏻 So, Helps and Feedbacks are Much appreciated.
