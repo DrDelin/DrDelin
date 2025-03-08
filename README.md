@@ -27,11 +27,8 @@
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDelin&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DrDelin&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrDelin&theme=radical)
 
 ## 📫 Connect with Me
-- GitHub: [DrDelin](https://github.com/DrDelin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrDelin)
 
 Thanks for visiting my profile! 😊
