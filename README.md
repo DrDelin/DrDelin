@@ -30,9 +30,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DrDelin&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrDelin&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrDelin&theme=radical)
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DrDelin&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 📫 Connect with Me
 - GitHub: [DrDelin](https://github.com/DrDelin)
 
