@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋, I'm Dr.Delin</h1>
-<h3 align="center">A Medical doctor with interest in programming</h3>
+<h3 align="center">A Medical Doctor with interest in programming</h3>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DrDelin&color=blue&style=flat" alt="Profile Views">
 </p>
 <h1 align="left">Welcome to my GitHub profile!</h1>
 
 ## 🚀 About Me
-- 👨🏻‍⚕️ I'm a medical doctor from India🇮🇳.
+- 👨🏻‍⚕️ I'm a Registered Medical Doctor from India🇮🇳.
 - 🩺 Completed MBBS (2017 - 2023).
 - 🧑🏻‍💻 I also have passion in programming.
 - 📖🛜 I learnt programming languages mostly by online.
